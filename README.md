@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Raiden 👋
 
-<!--
-**raimatt/raimatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science senior specializing in full-stack development, API architecture, and data-driven web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+React • FastAPI • Node.js • Python • MongoDB • Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- NBA Champion Predictor
+- SafePlay
+- Aloha, Tiff Amber
+
+## Interests
+Sports analytics • AI integrations • Full-stack systems
+
+## Currently Learning
+System design, scalable backend architecture, and AI-powered applications
