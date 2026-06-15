@@ -1,8 +1,10 @@
 # Hi, I'm Raiden 👋
 
-Computer Science senior at Oregon State University specializing in full-stack development, API architecture, and data-driven web applications.
+Computer Science graduate from Oregon State University focused on full-stack web development and building software that solves real-world problems.
 
-I enjoy building modern web applications focused on sports analytics, AI integrations, and scalable backend systems.
+My experience includes developing and deploying production web applications, from a client-facing e-commerce platform for a Hawaii-based jewelry business to data-driven sports analytics tools. I enjoy building full-stack applications, designing APIs, and creating intuitive user experiences.
+
+Currently seeking software engineering and full-stack development opportunities.
 
 ---
 
@@ -24,8 +26,18 @@ Git • GitHub • Postman • Vercel • Render • Cloudinary • GCP
 
 ## Featured Projects
 
+### 💎 Aloha, Tiff Amber
+Production MERN e-commerce platform developed for a Hawaii-based jewelry business, featuring a customer storefront, secure admin dashboard, and product inventory management.
+
+**Tech:** React 19, Node.js, Express, MongoDB, JWT
+
+🔗 Live Demo: [alohatiffamber.com](https://alohatiffamber.com/)  
+🔗 Source Code: [github.com/raimatt/aloha-tiff-amber](https://github.com/raimatt/aloha-tiff-amber)
+
+---
+
 ### 🏀 NBA Champion Predictor
-Full-stack NBA analytics platform that predicts championship contenders using a custom statistical elimination model and live NBA data.
+Full-stack NBA analytics platform that predicts championship contenders using a custom statistical elimination model and live NBA player and team data.
 
 **Tech:** React, FastAPI, Python, Pandas, Tailwind CSS
 
@@ -35,23 +47,13 @@ Full-stack NBA analytics platform that predicts championship contenders using a 
 ---
 
 ### 🩺 SafePlay
-Hackathon-built sports injury risk assessment tool delivering personalized injury prevention insights and recovery recommendations.
+Hackathon-built sports injury risk assessment tool that generates personalized risk profiles, prevention recommendations, and warm-up routines.
 
 **Tech:** React 19, JavaScript, Tailwind CSS, shadcn/ui
 
 🔗 Live Demo: [safeplay-three.vercel.app](https://safeplay-three.vercel.app/)
 
 🔗 Source Code: [github.com/raimatt/safeplay](https://github.com/raimatt/safeplay)
-
----
-
-### 💎 Aloha, Tiff Amber
-Production MERN e-commerce platform built for a real client with custom admin functionality and secure product management.
-
-**Tech:** React 19, Node.js, Express, MongoDB, JWT
-
-🔗 Live Demo: [alohatiffamber.com](https://alohatiffamber.com/)  
-🔗 Source Code: [github.com/raimatt/aloha-tiff-amber](https://github.com/raimatt/aloha-tiff-amber)
 
 ---
 
@@ -65,12 +67,12 @@ Production MERN e-commerce platform built for a real client with custom admin fu
 
 ---
 
-## Currently Learning
+## What I'm Looking For
 
-- System design
-- Scalable backend architecture
-- AI-enhanced applications
-- Cloud infrastructure
+- Software Engineering roles
+- Full-Stack Development roles
+- Web Development opportunities
+- Early-career positions where I can contribute and continue growing as a developer
 
 ---
 
@@ -78,4 +80,4 @@ Production MERN e-commerce platform built for a real client with custom admin fu
 
 - LinkedIn: [linkedin.com/in/raidenlazaro](https://www.linkedin.com/in/raidenlazaro)
 - GitHub: [github.com/raimatt](https://github.com/raimatt)
-- Email: [raidenmlazaro@gmail.com](raidenmlazaro@gmail.com)
+- Email: [raidenmlazaro@gmail.com](mailto:raidenmlazaro@gmail.com)
